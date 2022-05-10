@@ -1,0 +1,6 @@
+{
+    "name": "music-app",
+    "scripts": {
+        "dev": "concurrently \"nodemon api\" \"cd client && npm start\""
+    }  
+}

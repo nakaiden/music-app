@@ -47,3 +47,11 @@
     transform: rotate(360deg);
   }
 }
+
+.song-card-container{
+  font-size: 20pt;
+}
+img.mini{
+  width:100px;
+  height:100px;
+}
